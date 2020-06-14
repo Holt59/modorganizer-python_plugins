@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/generic_game/ui">
+    <file alias="al">icons/al.png</file>
+    <file alias="aon3">icons/aon3.png</file>
+    <file alias="isa">icons/isa.png</file>
+    <file alias="ld">icons/ld.png</file>
+    <file alias="lp">icons/lp.png</file>
+    <file alias="silarn">icons/silarn.png</file>
+</qresource>
+</RCC>
