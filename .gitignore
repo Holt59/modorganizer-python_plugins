@@ -1,0 +1,17 @@
+# Note: I (Holt59) have this repository in my plugins/ folder to maintain
+# it, which is why this .gitignore is... weird, please do not remove entries
+# from it!
+
+# Generated files
+__pycache__
+.mypy_cache
+
+# Editor files
+*.code-workspace
+
+# MO2 files
+/data
+/*.dll
+
+# .py files at the root should not be in the repository:
+/*.py
